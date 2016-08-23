@@ -13,7 +13,7 @@ Please visit [Official Site](https://nasa.github.io/openmct/) and [Getting Start
 
  `docker run -p 8888:8080 `
 
-Open MCT is now running, and can be accessed by pointing a web browser at [http://localhost:8080/](http://localhost:8080/)
+Open MCT is now running, and can be accessed by pointing a web browser at [http://localhost:8888/](http://localhost:8888/)
 
 ## Documentation
 
