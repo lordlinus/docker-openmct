@@ -7,7 +7,7 @@ Please visit [Official Site](https://nasa.github.io/openmct/) and [Getting Start
 
 1. Clone the docker image
 
- `docker pull openmct`
+ `docker pull docker-openmct`
 
 2. Run the docker
 
